@@ -9,6 +9,8 @@ Lo mas importante es instalar node_modules usamos el siguiente comando: npm inst
 1- usar el siguiente comando para activar JSON SERVER :  json-server --watch db.json  
 // --port #### puedes elegir un port o ir por el predeterminado
 
+Abrimos otra terminal y escribimos lo siguiente 
+
 2- usar el siguiente comando para activar la app:  npm start   
 obs: si no te deja ejecutar puede ser que el json server haya agarrado el port:3000 si es asi puedes escribir Y para que cambie el puerto de la aplicacion de desarrollo a 3001
 esto "Ejecuta la aplicación en modo desarrollo.\
