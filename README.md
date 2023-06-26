@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Como iniciar el programa
+Lo mas importante es instalar node_modules usamos el siguiente comando: npm install
 
 1- usar el siguiente comando para activar JSON SERVER :  json-server --watch db.json  
 // --port #### puedes elegir un port o ir por el predeterminado
