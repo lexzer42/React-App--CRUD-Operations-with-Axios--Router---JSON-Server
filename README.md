@@ -30,13 +30,12 @@ También puedes ver los errores de lint (si existen) en la consola del navegador
 
 ## Un resumen actualizado con las librerías y herramientas que utilizamos en el proyecto: 
 
-•	React: Biblioteca de JavaScript que nos permite construir interfaces de usuario reactivas y escalables.
-•	React Router: Biblioteca de enrutamiento para React que nos permite manejar la navegación entre distintas páginas en una aplicación de una sola página (SPA).
-•	Axios: Biblioteca de JavaScript que nos permite hacer solicitudes HTTP desde el cliente a la API.
-•	JSON Server: Herramienta que nos permite simular una API REST a partir de un archivo JSON. Lo utilizamos para la creación de nuestra API sin necesidad de un servidor.
-•	Tailwind CSS: Framework de CSS que nos permite diseñar y personalizar interfaces de usuario de manera rápida y sencilla, gracias a sus clases predefinidas.
-Además, en cuanto al uso de navigate y Link, estas son herramientas que utilizamos para manejar la navegación entre distintas páginas en React Router. Link se utiliza para crear vínculos a otras páginas en la aplicación y navigate para redirigir a otra ruta.
-
+1. React: Biblioteca de JavaScript que nos permite construir interfaces de usuario reactivas y escalables.
+2. React Router: Biblioteca de enrutamiento para React que nos permite manejar la navegación entre distintas páginas en una aplicación de una sola página (SPA).
+3. Axios: Biblioteca de JavaScript que nos permite hacer solicitudes HTTP desde el cliente a la API.
+4. JSON Server: Herramienta que nos permite simular una API REST a partir de un archivo JSON. Lo utilizamos para la creación de nuestra API sin necesidad de un servidor.
+5. Tailwind CSS: Framework de CSS que nos permite diseñar y personalizar interfaces de usuario de manera rápida y sencilla, gracias a sus clases predefinidas.
+6. Además, en cuanto al uso de navigate y Link, estas son herramientas que utilizamos para manejar la navegación entre distintas páginas en React Router. Link se utiliza para crear vínculos a otras páginas en la aplicación y navigate para redirigir a otra ruta.
 
 ## Learn More
 
